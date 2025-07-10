@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypto-Coin-Predictor-using-ai/static/css/main.c9debee6.css",
+    "main.js": "/Crypto-Coin-Predictor-using-ai/static/js/main.ba4800c1.js",
+    "index.html": "/Crypto-Coin-Predictor-using-ai/index.html",
+    "main.c9debee6.css.map": "/Crypto-Coin-Predictor-using-ai/static/css/main.c9debee6.css.map",
+    "main.ba4800c1.js.map": "/Crypto-Coin-Predictor-using-ai/static/js/main.ba4800c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9debee6.css",
+    "static/js/main.ba4800c1.js"
+  ]
+}
